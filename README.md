@@ -49,7 +49,7 @@ For the project's development, I used Flutter for the front-end development and 
 Challenges faced:
     
 1. Gradle Configuration Error:
-    Encountered an error related to Gradle configuration while building the app.
+    Encountered an error related to Gradle configuration while building the app. Resolved it by checking compatibility with Flutter and updating dependencies.
 
 2. Firebase Integration:
     Faced challenges with Firebase integration. Solved these by consulting Firebase documentation and debugging integration issues.

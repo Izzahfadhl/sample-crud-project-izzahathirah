@@ -1,7 +1,8 @@
 # daylog
 
 A new Flutter project.
-DaylOg application is designed to function as a personal diary and reminder.
+
+    DaylOg application is designed to function as a personal diary and reminder.
 
 ## Getting Started
 

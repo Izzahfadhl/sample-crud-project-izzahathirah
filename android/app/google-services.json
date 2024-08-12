@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "810311286664",
+    "project_id": "daylog-d365",
+    "storage_bucket": "daylog-d365.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810311286664:android:a698c241cb3e3ffcc0043d",
+        "android_client_info": {
+          "package_name": "com.example.daylog"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk05wiitGVOUxwqNeo32jZY7Bv2uXnvVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -46,11 +46,11 @@ samples, guidance on mobile development, and a full API reference.
 
 For the project's development, I used Flutter for the front-end development and Dart as the programming language. I implemented Firebase for data storage and real-time updates. I set up Firestore to store diary entries and reminders.
 
-    Challenges faced:
+Challenges faced:
     
-    1. Gradle Configuration Error:
+1. Gradle Configuration Error:
     Encountered an error related to Gradle configuration while building the app.
 
-    2. Firebase Integration:
+2. Firebase Integration:
     Faced challenges with Firebase integration. Solved these by consulting Firebase documentation and debugging integration issues.
  

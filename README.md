@@ -1,6 +1,7 @@
 # daylog
 
 A new Flutter project.
+DaylOg application is designed to function as a personal diary and reminder.
 
 ## Getting Started
 
@@ -39,3 +40,16 @@ To run the sample-crud-project, follow these steps:
 
 7. Resolve Any Issues:
     If you encounter any errors or issues, check the error messages for details and make any necessary adjustments, such as updating Flutter or dependencies.
+
+## Approach and Challenges
+
+For the project's development, I used Flutter for the front-end development and Dart as the programming language. I implemented Firebase for data storage and real-time updates. I set up Firestore to store diary entries and reminders.
+
+    Challenges faced:
+    
+1. Gradle Configuration Error:
+    Encountered an error related to Gradle configuration while building the app.
+
+2. Firebase Integration:
+    Faced challenges with Firebase integration. Solved these by consulting Firebase documentation and debugging integration issues.
+ 

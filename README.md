@@ -39,4 +39,3 @@ To run the sample-crud-project, follow these steps:
 
 7. Resolve Any Issues:
     If you encounter any errors or issues, check the error messages for details and make any necessary adjustments, such as updating Flutter or dependencies.
-=======

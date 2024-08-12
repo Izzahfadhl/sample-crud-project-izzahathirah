@@ -1,5 +1,22 @@
-<<<<<<< HEAD
-# sample-crud-project--izzahathirah-
+# daylog
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+>>>>>>> e1c8478 (My First Commit)
+
+## Setup Application
 
 To run the sample-crud-project, follow these steps:
 
@@ -21,20 +38,3 @@ To run the sample-crud-project, follow these steps:
 6. Resolve Any Issues:
     If you encounter any errors or issues, check the error messages for details and make any necessary adjustments, such as updating Flutter or dependencies.
 =======
-# daylog
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> e1c8478 (My First Commit)
